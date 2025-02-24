@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sergeant
-build_property.ProjectDir = /home/virusnest/Projects/OPENTK-Game/Sergeant/
+build_property.ProjectDir = /home/virusnest/RiderProjects/Sergeant/Sergeant/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

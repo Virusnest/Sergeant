@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/virusnest/Projects/OPENTK-Game/Sergeant/Sergeant.csproj",
+      "projectUniqueName": "/home/virusnest/RiderProjects/Sergeant/Sergeant/Sergeant.csproj",
       "projectName": "Sergeant",
-      "projectPath": "/home/virusnest/Projects/OPENTK-Game/Sergeant/Sergeant.csproj",
+      "projectPath": "/home/virusnest/RiderProjects/Sergeant/Sergeant/Sergeant.csproj",
       "packagesPath": "/home/virusnest/.nuget/packages/",
-      "outputPath": "/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/",
+      "outputPath": "/home/virusnest/RiderProjects/Sergeant/Sergeant/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/virusnest/.nuget/NuGet/NuGet.Config"

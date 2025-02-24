@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AqpNtLQgibI=",
+  "dgSpecHash": "oZs9o2kfXaw=",
   "success": true,
-  "projectFilePath": "/home/virusnest/Projects/OPENTK-Game/Sergeant/Sergeant.csproj",
+  "projectFilePath": "/home/virusnest/RiderProjects/Sergeant/Sergeant/Sergeant.csproj",
   "expectedPackageFiles": [
     "/home/virusnest/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
   ],
