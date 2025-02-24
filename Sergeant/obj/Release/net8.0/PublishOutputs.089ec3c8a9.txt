@@ -1,0 +1,3 @@
+/home/virusnest/Projects/OPENTK-Game/Sergeant/bin/Release/net8.0/publish/Sergeant.dll
+/home/virusnest/Projects/OPENTK-Game/Sergeant/bin/Release/net8.0/publish/Sergeant.deps.json
+/home/virusnest/Projects/OPENTK-Game/Sergeant/bin/Release/net8.0/publish/Sergeant.pdb

@@ -1,0 +1,12 @@
+/home/virusnest/Projects/OPENTK-Game/Sergeant/bin/Debug/net8.0/Sergeant.deps.json
+/home/virusnest/Projects/OPENTK-Game/Sergeant/bin/Debug/net8.0/Sergeant.dll
+/home/virusnest/Projects/OPENTK-Game/Sergeant/bin/Debug/net8.0/Sergeant.pdb
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.GeneratedMSBuildEditorConfig.editorconfig
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.AssemblyInfoInputs.cache
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.AssemblyInfo.cs
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.csproj.CoreCompileInputs.cache
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.sourcelink.json
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.dll
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/refint/Sergeant.dll
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/Sergeant.pdb
+/home/virusnest/Projects/OPENTK-Game/Sergeant/obj/Debug/net8.0/ref/Sergeant.dll
